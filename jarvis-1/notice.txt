@@ -1,0 +1,14 @@
+Open the Terminal Window and use these commands to install the essential files needed for the program to work:
+
+pip install pyttsx3
+pip install pypiwin32.
+pip install speechRecognition
+pip install wikipedia
+pip install pyaudio
+
+
+Made by Dhun Dave
+GitHub: dhun-dave
+LinkedIn: Dhun Dave
+Twitter: @dhun__
+Instagram: @the.dhun
